@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.eea.eea.Models.card_details">
+
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/checkoutGrid"
+        android:numColumns="4"
+/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text="Total Price:"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/checkoutGrid"
+        android:id="@+id/checkoutTotal"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_below="@id/checkoutGrid"
+        android:layout_height="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_toRightOf="@id/checkoutTotal"
+        android:id="@+id/checkoutTotalText"/>
+
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text="Total Products:"
+        android:layout_below="@+id/checkoutTotal"
+        android:id="@+id/checkoutQuantity"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/checkoutTotal"
+        android:layout_toRightOf="@id/checkoutQuantity"
+        android:id="@+id/checkoutQuantityText"/>
+
+
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+
+        android:text="Credit Card Number:"
+        android:id="@+id/creditCardNumber"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkoutQuantity"
+        />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:text="CVV :"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/cvv"
+        android:layout_below="@+id/creditCardNumber"/>
+
+    <TextView
+        android:id="@+id/expiryDate"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/cvv"
+        android:text="Expiry Date :" />
+    <EditText
+        android:layout_width="200dp"
+        android:id="@+id/creditCardNumberText"
+        android:layout_height="40dp"
+        android:layout_toRightOf="@id/checkoutTotal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="220dp"
+
+        />
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:id="@+id/cvvText"
+        android:layout_toRightOf="@id/cvv"
+        android:layout_below="@id/creditCardNumberText"
+        />
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:id="@+id/expiryDateText"
+        android:layout_toRightOf="@id/expiryDate"
+        android:layout_below="@id/cvvText"
+        />
+
+
+
+
+
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:id="@+id/shippingCost"
+
+        android:layout_centerHorizontal="true"/>
+
+
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+
+        android:text="Contact Number:"
+        android:id="@+id/contactNumber"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/expiryDate"
+        android:layout_marginTop="50dp"
+        />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:text="Country: "
+        android:layout_alignParentLeft="true"
+        android:id="@+id/country"
+        android:layout_below="@+id/contactNumber"/>
+
+    <TextView
+        android:id="@+id/ShippingAddress"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/country"
+        android:text="Shippin Address :" />
+    <EditText
+        android:layout_width="200dp"
+        android:id="@+id/contactNumberText"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/contactNumber"
+        android:layout_below="@id/expiryDate"
+
+        />
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:id="@+id/ShippingAddressText"
+        android:layout_toRightOf="@id/contactNumber"
+        android:layout_below="@id/countryText"
+        />
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:id="@+id/countryText"
+        android:layout_toRightOf="@id/contactNumber"
+        android:layout_below="@id/contactNumberText"
+        />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:id="@+id/areaCode"
+        android:layout_toRightOf="@id/contactNumber"
+        android:layout_below="@id/ShippingAddressText"
+        />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:text="Area Code"
+        android:layout_below="@id/ShippingAddress"
+        />
+</RelativeLayout>

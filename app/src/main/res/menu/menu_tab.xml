@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.eea.eea.Activites.TabActivity">
+    <item
+        android:id="@+id/purchaseHistory"
+        android:orderInCategory="100"
+        android:title="Orders"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ContactUs"
+        android:orderInCategory="100"
+        android:title="Contact Us"
+        app:showAsAction="never" />
+
+</menu>

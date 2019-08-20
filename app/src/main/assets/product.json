@@ -1,0 +1,216 @@
+[
+  {
+
+    "Name": "Nike Branded T-Shirt",
+    "ShortDescription": "Product #1 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 30,
+    "Quantity": 5,
+    "Active": true,
+    "ScaledImage": "https://doyoueven.co.uk/wp-content/uploads/2017/09/nike-futura-icon-f88c83fe701eaffdbf18ee3bddf84003.jpg",
+    "FullImage": "https://doyoueven.co.uk/wp-content/uploads/2017/09/nike-futura-icon-f88c83fe701eaffdbf18ee3bddf84003.jpg",
+    "Tag": [1 , 4, 5],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Cotton Plain Navy Blue T Shirt",
+    "ShortDescription": "Product #2 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 35,
+    "Quantity": 8,
+    "Active": true,
+    "ScaledImage": "https://5.imimg.com/data5/DK/JV/MY-34278/men-27s-fashion-tshirts-500x500.jpg",
+    "FullImage": "https://5.imimg.com/data5/DK/JV/MY-34278/men-27s-fashion-tshirts-500x500.jpg",
+    "Tag": [1 , 4, 8, 10],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Spring Double Pocket Shirt",
+    "ShortDescription": "Product #3 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 33,
+    "Quantity": 15,
+    "Active": true,
+    "ScaledImage": "https://www.shopperwear.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/n/e/new-spring-double-pocket-mens-fashion-shirt-brand-men-long-sleeved-solid-shirts-slim-fit-casual-men-shirt-social-extra-image-2.jpg",
+    "FullImage": "https://www.shopperwear.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/n/e/new-spring-double-pocket-mens-fashion-shirt-brand-men-long-sleeved-solid-shirts-slim-fit-casual-men-shirt-social-extra-image-2.jpg",
+    "Tag": [1 ,8, 10],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Auguste Stevie Play Dress",
+    "ShortDescription": "Product #4 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 80,
+    "Quantity": 19,
+    "Active": true,
+    "ScaledImage": "https://www.surfstitch.com/on/demandware.static/-/Sites-ss-master-catalog/default/dwaee0cf50/images/AMH2-17254-BKBK/BLACK-WOMENS-CLOTHING-AUGUSTE-DRESSES-AMH2-17254-BKBK_2.JPG",
+    "FullImage": "https://www.surfstitch.com/on/demandware.static/-/Sites-ss-master-catalog/default/dwaee0cf50/images/AMH2-17254-BKBK/BLACK-WOMENS-CLOTHING-AUGUSTE-DRESSES-AMH2-17254-BKBK_2.JPG",
+    "Tag": [3 , 4, 12],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Superdry Jewel Rydell Dress",
+    "ShortDescription": "Product #5 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 60,
+    "Quantity": 3,
+    "Active": true,
+    "ScaledImage": "http://www.orionsigns.co.nz/images/Shop/FR863176%20Superdry%20Jewel%20Rydell%20Dress%20Dresses%20Shop%20Womens%20Dresses%20ColourEclipse%20Navy%20Factory%20Outlet.jpg",
+    "FullImage": "http://www.orionsigns.co.nz/images/Shop/FR863176%20Superdry%20Jewel%20Rydell%20Dress%20Dresses%20Shop%20Womens%20Dresses%20ColourEclipse%20Navy%20Factory%20Outlet.jpg",
+    "Tag": [3 , 10, 12],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Autumn Gentleman Sweater ",
+    "ShortDescription": "Product #6 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 10,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "https://ae01.alicdn.com/kf/HTB1JBsQsYSYBuNjSspfq6AZCpXal/2018-Fashion-Boys-Cardigan-Autumn-Gentleman-Sweater-Baby-Boys-Sweater-Shirt-Kids-Leisure-Stripe-Sweater-for.jpg_640x640.jpg",
+    "FullImage": "https://ae01.alicdn.com/kf/HTB1JBsQsYSYBuNjSspfq6AZCpXal/2018-Fashion-Boys-Cardigan-Autumn-Gentleman-Sweater-Baby-Boys-Sweater-Shirt-Kids-Leisure-Stripe-Sweater-for.jpg_640x640.jpg",
+    "Tag": [2 , 4, 12],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": " Womens Super Boating Mini Dress Navy Breton",
+    "ShortDescription": "Product #7 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 50,
+    "Quantity": 5,
+    "Active": true,
+    "ScaledImage": "https://i.pinimg.com/originals/dc/13/15/dc1315633642a317284b88a7cf5cb0d9.jpg",
+    "FullImage": "https://i.pinimg.com/originals/dc/13/15/dc1315633642a317284b88a7cf5cb0d9.jpg",
+    "Tag": [3 , 4, 10],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Girl Plaid Shirts",
+    "ShortDescription": "Product #8 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 20,
+    "Quantity": 30,
+    "Active": true,
+    "ScaledImage": "https://www.solidrop.net/photo-1/2017-big-fashion-girls-shirts-autumn-new-style-children-clothing-kids-clothes-girl-plaid-shirts-child.jpg",
+    "FullImage": "https://www.solidrop.net/photo-1/2017-big-fashion-girls-shirts-autumn-new-style-children-clothing-kids-clothes-girl-plaid-shirts-child.jpg",
+    "Tag": [2 , 4, 12],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Velvet frock",
+    "ShortDescription": "Product #9 short description goes here.",
+    "longdescription": "In Stock,100% Brand New,Good Quality.",
+    "Catagory": 1,
+    "Price": 15,
+    "Quantity": 45,
+    "Active": true,
+    "ScaledImage": "https://i.pinimg.com/736x/6e/10/ae/6e10ae94620fc10589641edea2a651dd--kids-s-zara-united-kingdom.jpg",
+    "FullImage": "https://i.pinimg.com/736x/6e/10/ae/6e10ae94620fc10589641edea2a651dd--kids-s-zara-united-kingdom.jpg",
+    "Tag": [2 , 4, 5],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Joyfolie Cora sweater ",
+    "ShortDescription": "Product #10 short description goes here.",
+    "longdescription": "Product #10 long description goes here.",
+    "Catagory": 1,
+    "Price": 30,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "https://i.pinimg.com/236x/e9/58/61/e958616638ae9914af89197468ca8ce2--cute-girl-outfits-new-girl.jpg",
+    "FullImage": "https://i.pinimg.com/236x/e9/58/61/e958616638ae9914af89197468ca8ce2--cute-girl-outfits-new-girl.jpg",
+    "Tag": [2 , 4, 5],
+    "Status":"Available"
+
+  }
+,
+  {
+
+    "Name": "Classic English Shoes ",
+    "ShortDescription": "Product #10 short description goes here.",
+    "longdescription": "Product #10 long description goes here.",
+    "Catagory": 1,
+    "Price": 60,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "https://www.loake.co.uk/media/catalog/product/cache/image/550x393/e9c3970ab036de70892d86c6d221abfe/1/8/1880_edward_tan_single_ret.jpg",
+    "FullImage": "https://www.loake.co.uk/media/catalog/product/cache/image/550x393/e9c3970ab036de70892d86c6d221abfe/1/8/1880_edward_tan_single_ret.jpg",
+    "Tag": [8 ,  13, 2],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Grey Firozi Mesh Kids Shoes",
+    "ShortDescription": "Product #10 short description goes here.",
+    "longdescription": "Product #10 long description goes here.",
+    "Catagory": 1,
+    "Price": 45,
+    "Quantity": 5,
+    "Active": true,
+    "ScaledImage": "https://images-na.ssl-images-amazon.com/images/I/61cbAQatNlL._UL1500_.jpg",
+    "FullImage": "https://images-na.ssl-images-amazon.com/images/I/61cbAQatNlL._UL1500_.jpg",
+    "Tag": [8 , 11, 2],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "T-Rock Men's Tan Casual Shoes",
+    "ShortDescription": "Product #10 short description goes here.",
+    "longdescription": "Product #10 long description goes here.",
+    "Catagory": 1,
+    "Price": 55,
+    "Quantity": 5,
+    "Active": true,
+    "ScaledImage": "https://images-na.ssl-images-amazon.com/images/I/714sb6gwMpL._UL1500_.jpg",
+    "FullImage": "https://images-na.ssl-images-amazon.com/images/I/714sb6gwMpL._UL1500_.jpg",
+    "Tag": [8 , 13, 1],
+    "Status":"Available"
+
+  },
+  {
+
+    "Name": "Grey Firozi Mesh Kids Shoes",
+    "ShortDescription": "Product #10 short description goes here.",
+    "longdescription": "Product #10 long description goes here.",
+    "Catagory": 1,
+    "Price": 65,
+    "Quantity": 5,
+    "Active": true,
+    "ScaledImage": "http://images.us.christianlouboutin.com/media/catalog/product/cache/1/thumbnail/1200x/602f0fa2c1f0d1ba5e241f914e856ff9/3/0/8/0/christianlouboutin-pigalle-3080680_R158_1_1200x1200_1511951901.jpg",
+    "FullImage": "http://images.us.christianlouboutin.com/media/catalog/product/cache/1/thumbnail/1200x/602f0fa2c1f0d1ba5e241f914e856ff9/3/0/8/0/christianlouboutin-pigalle-3080680_R158_1_1200x1200_1511951901.jpg",
+    "Tag": [8 , 7, 3],
+    "Status":"Available"
+
+  }
+
+
+
+]

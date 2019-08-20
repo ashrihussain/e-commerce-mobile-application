@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/custom_border"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:id="@+id/purchaseImage"
+        app:srcCompat="@drawable/ic_menu_send"/>
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:layout_toRightOf="@id/purchaseImage"
+        android:id="@+id/purchaseProduct"/>
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/purchasePrice"
+        android:layout_toRightOf="@id/purchaseImage"
+        android:layout_below="@+id/purchaseProduct"/>
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="22dp"
+        android:id="@+id/purchaseQuantity"
+        android:layout_toRightOf="@id/purchaseImage"
+        android:layout_below="@+id/purchasePrice"/>
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="16dp"
+        android:id="@+id/purchaseTime"
+        android:layout_toRightOf="@id/purchaseImage"
+        android:layout_below="@+id/purchaseQuantity"/>
+
+
+</RelativeLayout>
